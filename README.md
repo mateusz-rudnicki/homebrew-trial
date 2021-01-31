@@ -1,9 +1,9 @@
-# Mateusz-rudnicki Hello-world
+# Mateusz-rudnicki trial
 
 ## How do I install these formulae?
-`brew install mateusz-rudnicki/hello-world/<formula>`
+`brew install mateusz-rudnicki/trial/<formula>`
 
-Or `brew tap mateusz-rudnicki/hello-world` and then `brew install <formula>`.
+Or `brew tap mateusz-rudnicki/trial` and then `brew install <formula>`.
 
 ## Documentation
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
